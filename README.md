@@ -49,6 +49,14 @@ JCoreInterface init failed，
 
 # 集成指南：
 
+### 创建应用（需要包名），获取appkey和demo(带你的包名和appkey)
+
+![](https://github.com/Ablexq/MyJpush/blob/master/pics/step1.png)
+![](https://github.com/Ablexq/MyJpush/blob/master/pics/step2.png)
+![](https://github.com/Ablexq/MyJpush/blob/master/pics/step3.png)
+![](https://github.com/Ablexq/MyJpush/blob/master/pics/step4.png)
+![](https://github.com/Ablexq/MyJpush/blob/master/pics/demo结构)
+
 
 ### 导入库：
 
